@@ -1,0 +1,4 @@
+﻿  PlayerVsZombies.cpp
+C:\Users\sky\source\repos\Player_VS_Zombies_Game\Player_VS_Zombies_Game\PlayerVsZombies.cpp(256,31): warning C4309: 'argument': truncation of constant value
+C:\Users\sky\source\repos\Player_VS_Zombies_Game\Player_VS_Zombies_Game\PlayerVsZombies.cpp(511,16): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Player_VS_Zombies_Game.vcxproj -> C:\Users\sky\source\repos\Player_VS_Zombies_Game\x64\Debug\Player_VS_Zombies_Game.exe
